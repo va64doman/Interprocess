@@ -1,1 +1,8 @@
 C:\Users\Van Do\Documents\TAFE\Assignment\Software\S2\Dynamic Data Structure\Assignment 3\Inter-processCommunication\InterprocessServer\bin\Debug\InterprocessServer.exe.config
+C:\Users\Van Do\Documents\TAFE\Assignment\Software\S2\Dynamic Data Structure\Assignment 3\Inter-processCommunication\InterprocessServer\bin\Debug\InterprocessServer.exe
+C:\Users\Van Do\Documents\TAFE\Assignment\Software\S2\Dynamic Data Structure\Assignment 3\Inter-processCommunication\InterprocessServer\bin\Debug\InterprocessServer.pdb
+C:\Users\Van Do\Documents\TAFE\Assignment\Software\S2\Dynamic Data Structure\Assignment 3\Inter-processCommunication\InterprocessServer\obj\Debug\InterprocessServer.csprojResolveAssemblyReference.cache
+C:\Users\Van Do\Documents\TAFE\Assignment\Software\S2\Dynamic Data Structure\Assignment 3\Inter-processCommunication\InterprocessServer\obj\Debug\InterprocessServer.exe
+C:\Users\Van Do\Documents\TAFE\Assignment\Software\S2\Dynamic Data Structure\Assignment 3\Inter-processCommunication\InterprocessServer\obj\Debug\InterprocessServer.pdb
+C:\Users\Van Do\Documents\TAFE\Assignment\Software\S2\Dynamic Data Structure\Assignment 3\Inter-processCommunication\InterprocessServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Van Do\Documents\TAFE\Assignment\Software\S2\Dynamic Data Structure\Assignment 3\Inter-processCommunication\InterprocessServer\bin\Debug\Newtonsoft.Json.xml
